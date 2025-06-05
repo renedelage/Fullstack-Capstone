@@ -1,0 +1,1 @@
+These are the files from my final capstone project with Fullstack Academy. It was an analysis of a sample retail dataset, including figures for product sales, campaign performace, and customer demographics.
