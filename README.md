@@ -1,1 +1,2 @@
 These are the files from my final capstone project with Fullstack Academy. It was an analysis of a sample retail dataset, including figures for product sales, marketing campaign performace, and customer demographics.
+Here's a link to my Tableau story for this project: [https://public.tableau.com/views/R_DeLage-Capstone/RetailAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/R_DeLage-Capstone/RetailAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
