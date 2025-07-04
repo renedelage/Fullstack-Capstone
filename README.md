@@ -2,4 +2,5 @@ These are the files from my final capstone project with Fullstack Academy. It wa
 
 The 'clean_marketing_campaign.csv' file was used for SQL and Python analysis. Separate analaysis was performed in Excel, and that's the 'marketing_campaign_analysis.xlsx' file.
 
-Here's a link to my Tableau story for this project: [https://public.tableau.com/views/R_DeLage-Capstone/RetailAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/R_DeLage-Capstone/RetailAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Here's a link to my Tableau story for this project: [[https://public.tableau.com/views/R_DeLage-Capstone/RetailAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/R_DeLage-Capstone/RetailAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+](https://public.tableau.com/views/FullstackAcademyCapstoneProject/RetailAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
